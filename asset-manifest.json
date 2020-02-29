@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lightsout-game/static/css/main.a30a6a74.chunk.css",
+    "main.js": "/lightsout-game/static/js/main.deb67e1a.chunk.js",
+    "main.js.map": "/lightsout-game/static/js/main.deb67e1a.chunk.js.map",
+    "runtime-main.js": "/lightsout-game/static/js/runtime-main.af9c2a1a.js",
+    "runtime-main.js.map": "/lightsout-game/static/js/runtime-main.af9c2a1a.js.map",
+    "static/js/2.ec55858b.chunk.js": "/lightsout-game/static/js/2.ec55858b.chunk.js",
+    "static/js/2.ec55858b.chunk.js.map": "/lightsout-game/static/js/2.ec55858b.chunk.js.map",
+    "index.html": "/lightsout-game/index.html",
+    "precache-manifest.69d0d039bef4ae373f3c4bd6312a6bd7.js": "/lightsout-game/precache-manifest.69d0d039bef4ae373f3c4bd6312a6bd7.js",
+    "service-worker.js": "/lightsout-game/service-worker.js",
+    "static/css/main.a30a6a74.chunk.css.map": "/lightsout-game/static/css/main.a30a6a74.chunk.css.map",
+    "static/js/2.ec55858b.chunk.js.LICENSE.txt": "/lightsout-game/static/js/2.ec55858b.chunk.js.LICENSE.txt",
+    "static/media/win.mp3": "/lightsout-game/static/media/win.97e9809a.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af9c2a1a.js",
+    "static/js/2.ec55858b.chunk.js",
+    "static/css/main.a30a6a74.chunk.css",
+    "static/js/main.deb67e1a.chunk.js"
+  ]
+}
